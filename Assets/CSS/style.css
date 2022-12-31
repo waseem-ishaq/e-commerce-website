@@ -1,0 +1,43 @@
+/* Login */
+.body-bg {
+  background-color: #fe725d !important;
+}
+.maindiv {
+  height: 100vh !important;
+}
+.inner-div {
+  background-color: #ffb1a5;
+}
+.btn-login {
+  background-color: #fe725d !important;
+  color: white !important;
+}
+/* Navbar */
+.nav-btn-search {
+  background-color: #6b4de6 !important;
+  color: white !important;
+}
+.nav-search-bar {
+  background-color: #f0eef6 !important;
+}
+
+.nav-image {
+  width: 40px;
+  height: 40px;
+}
+
+/* Header */
+/* hide scroll */
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+.example {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* carosuel-size */
+.carosuel-size {
+  height: 500px !important;
+}
